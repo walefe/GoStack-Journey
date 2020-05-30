@@ -5,8 +5,7 @@
 
 <h4>Nova Jornada</h4>
 
-- Nível 01
 
-|Título|Tecnologia|
-|------|----------|
-|Desafio: [Conceitos NodeJS](https://github.com/walefe/gostack-conceitos-nodejs)| NodeJS|
+|Nível|Título|Tecnologia|
+|------|----------|:--------:|
+|Nível 01|Desafio: [Conceitos NodeJS](https://github.com/walefe/gostack-conceitos-nodejs)| NodeJS|

@@ -6,6 +6,6 @@
 <h4>Nova Jornada</h4>
 
 
-|Nível|Título|Tecnologia|
-|------|----------|:--------:|
-|Nível 01|Desafio: [Conceitos NodeJS](https://github.com/walefe/gostack-conceitos-nodejs)| NodeJS|
+|Nível|Título|Descrição|Tecnologia|
+|------|----------|---------|:--------:|
+|01|Desafio: [Conceitos NodeJS](https://github.com/walefe/gostack-conceitos-nodejs)|Esse desafio contém conceitos básicos de API Rest com NodeJS construídos utilizando o framework Express.| NodeJS|

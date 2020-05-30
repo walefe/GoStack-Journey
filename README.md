@@ -7,5 +7,5 @@
 
 
 |Nível|Título|Descrição|Tecnologia|
-|------|----------|---------|:--------:|
+|------|:----------|:---------:|:--------:|
 |01|Desafio: [Conceitos NodeJS](https://github.com/walefe/gostack-conceitos-nodejs)|Esse desafio contém conceitos básicos de API Rest com NodeJS construídos utilizando o framework Express.| NodeJS|

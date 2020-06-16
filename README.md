@@ -15,3 +15,4 @@
 | 01    | Desafio: [Conceitos React-Native](https://github.com/walefe/gostack-conceitos-react-native) |                        Esse desafio contém conceitos básicos sobre React-Native.                         | React-Native |
 | 02    | Desafio: [Fundamentos NodeJS](https://github.com/walefe/gostack-template-fundamentos-node) |                        Fundamentos básicos do NodeJS.                         | NodeJS |
 | 02    | Desafio: [Database upload](https://github.com/walefe/gostack-template-typeorm-upload) |                        API para gestão de transações utilizando Typescript e TypeORM.                         | NodeJS |
+| 03    | Desafio: [Fundamentos ReactJS](https://github.com/walefe/gostack-template-fundamentos-reactjs) |                    Interface da aplicação de gestão de transações GoFinances.                         | ReactJS |

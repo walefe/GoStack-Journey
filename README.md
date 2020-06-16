@@ -1,6 +1,6 @@
 <h3 align="center">GoStack-Journey</h3>
   
-  <h3 align="center">Repositório com todos os módulos, aulas e desafios do bootcamp Gostack da Rockeseat :rocket::purple_heart:!</h3>
+  <h3 align="center">Repositório com todos os módulos, aulas e desafios do bootcamp Gostack da Rockeseat :rocket::purple_heart:</h3>
 
 
 <h4>Nova Jornada</h4>
